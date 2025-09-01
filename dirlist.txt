@@ -1,0 +1,111 @@
+.
+├── CMakeLists.txt
+├── dirlist.txt
+├── Dockerfile
+├── launch
+│   └── gazebo.launch.py
+├── models
+│   ├── battery_9v_leader
+│   │   ├── meshes
+│   │   │   ├── paint.png.001.png
+│   │   │   ├── roughness.png
+│   │   │   ├── TB_Diffuse.png
+│   │   │   └── Untitled.dae
+│   │   ├── model.config
+│   │   └── model.sdf
+│   ├── battery_energizer
+│   │   ├── meshes
+│   │   │   ├── battery_energizer.dae
+│   │   │   ├── battery_varita.dae
+│   │   │   ├── file1.jpg
+│   │   │   ├── Label2_baseColor.jpeg
+│   │   │   └── Untitled.stl
+│   │   ├── model.config
+│   │   └── model.sdf
+│   ├── battery_varita
+│   │   ├── meshes
+│   │   │   ├── battery_varita.dae
+│   │   │   └── Varita_2_baseColor.png
+│   │   ├── model.config
+│   │   └── model.sdf
+│   ├── ground_plane
+│   │   ├── model-1_2.sdf
+│   │   ├── model-1_3.sdf
+│   │   ├── model-1_4.sdf
+│   │   ├── model.config
+│   │   └── model.sdf
+│   ├── lipo_battery
+│   │   ├── meshes
+│   │   │   ├── RGB_Base_map.png
+│   │   │   └── Untitled.dae
+│   │   ├── model.config
+│   │   └── model.sdf
+│   ├── sun
+│   │   ├── model-1_2.sdf
+│   │   ├── model-1_3.sdf
+│   │   ├── model-1_4.sdf
+│   │   ├── model.config
+│   │   └── model.sdf
+│   ├── table
+│   │   ├── model-1_2.sdf
+│   │   ├── model-1_3.sdf
+│   │   ├── model-1_4.sdf
+│   │   ├── model.config
+│   │   └── model.sdf
+│   └── workcell
+│       ├── materials
+│       │   └── textures
+│       │       ├── Bin.png
+│       │       ├── CardboardBoxes.png
+│       │       ├── ControlPanel.png
+│       │       ├── Conveyor.png
+│       │       ├── Door_Window.png
+│       │       ├── Floor.png
+│       │       ├── Mesh.png
+│       │       ├── Pallet.png
+│       │       ├── PalletWrap.png
+│       │       ├── Pillar.png
+│       │       ├── Plywood.png
+│       │       ├── RollupDoor.png
+│       │       ├── RubberMat.png
+│       │       ├── Shelves.png
+│       │       ├── Stairs.png
+│       │       ├── Wall_Concrete.png
+│       │       ├── Wall_Corrugated.png
+│       │       ├── WorkCell_Render.png
+│       │       └── Yellow.png
+│       ├── meshes
+│       │   ├── Bin.png
+│       │   ├── CardboardBoxes.png
+│       │   ├── ControlPanel.png
+│       │   ├── Conveyor.png
+│       │   ├── Door_Window.png
+│       │   ├── Floor.png
+│       │   ├── mesh_backup.dae
+│       │   ├── mesh.dae
+│       │   ├── mesh__.dae
+│       │   ├── Mesh.png
+│       │   ├── Pallet.png
+│       │   ├── PalletWrap.png
+│       │   ├── Pillar.png
+│       │   ├── Plywood.png
+│       │   ├── RollupDoor.png
+│       │   ├── RubberMat.png
+│       │   ├── Shelves.png
+│       │   ├── Stairs.png
+│       │   ├── Wall_Concrete.png
+│       │   ├── Wall_Corrugated.png
+│       │   ├── WorkCell_Render.png
+│       │   └── Yellow.png
+│       ├── model.config
+│       └── model.sdf
+├── package.xml
+├── README.md
+├── ros2_eval_task
+│   └── __init__.py
+├── rviz
+│   └── default.rviz
+└── worlds
+    └── factory.world
+
+20 directories, 88 files
